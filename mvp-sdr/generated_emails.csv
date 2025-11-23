@@ -1,0 +1,1512 @@
+name,company,title,linkedin_bio,employees,pain,angle,subject,body,angle_used,tokens,email
+Alice,TechFlow,VP R&D,Building the next gen DevOps platform for enterprise. Scaling engineering teams.,100,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Bob,ScaleUp Inc,Head of Engineering,Scaling fintech payments processing. Managing multiple squads.,50,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Charlie,StartupIO,CTO,Building the future of AI. Everything is on fire.,20,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Diana,CorpNet,Director of Engineering,Managing large distributed teams. Enterprise software.,200,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Your best engineers aren't leaving because of money. They're leaving because of firefighting spiral. They want to ship, not fight tools.
+
+Noise causes burnout. We reduce the noise and give them their focus back. We measure the friction points they can't see.
+
+Can I show you how we save your best talent?",Firefighting Spiral,52,"Subject: Regarding Firefighting Spiral
+
+Your best engineers aren't leaving because of money. They're leaving because of firefighting spiral. They want to ship, not fight tools.
+
+Noise causes burnout. We reduce the noise and give them their focus back. We measure the friction points they can't see.
+
+Can I show you how we save your best talent?"
+Eve,AI_Works,Product Lead,Leading AI product strategy. Focused on architecture alignment.,80,architecture drift,Strategic Clarity,Regarding Strategic Clarity,"Alignment is hard when you have architecture drift. You ship features, but the platform rots.
+
+We ensure every commit aligns with the roadmap. We link code changes to product specs automatically.
+
+Keep your product vision pure. Don't let technical debt kill your velocity.
+
+Worth 5 mins to see the link?",Strategic Clarity,50,"Subject: Regarding Strategic Clarity
+
+Alignment is hard when you have architecture drift. You ship features, but the platform rots.
+
+We ensure every commit aligns with the roadmap. We link code changes to product specs automatically.
+
+Keep your product vision pure. Don't let technical debt kill your velocity.
+
+Worth 5 mins to see the link?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"
+Tom Milberg,Zemingo,VP R&D,http://www.linkedin.com/in/tom-milberg-a54a371a,97,cross-team flow collapse,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,65,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with cross-team flow collapse. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Nir Gomer,SundaySky,Head of Engineering,http://www.linkedin.com/in/nirgomer,100,too many initiatives,Predictability,Regarding Predictability,"When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?",Predictability,59,"Subject: Regarding Predictability
+
+When you have too many initiatives, the roadmap becomes a wish list rather than a plan. Your team is working hard, but delivery feels random.
+
+We help you align engineering signals to business goals automatically, giving you a live view of reality.
+
+Stop guessing and start delivering with confidence. It changes the conversation with the board.
+
+Chat next week?"
+Amit Porat,Appcharge,Chief Technology Officer,http://www.linkedin.com/in/amit-porat-a4068728,130,execution friction,Execution Velocity,Regarding Execution Velocity,"Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?",Execution Velocity,64,"Subject: Regarding Execution Velocity
+
+Running a scaleup engineering org means you're dealing with execution friction. It's the silent killer of velocity.
+
+Most teams try to solve this with more process, but it only slows them further. You need visibility, not bureaucracy.
+
+Our Execution OS removes bottlenecks by creating flow across squads without adding weight. We connect the dots between strategy and code.
+
+Worth seeing how we do it?"
+Moshe Rosenthal,Rimon,CTO,http://www.linkedin.com/in/moshe-rosenthal,130,firefighting spiral,Firefighting Spiral,Regarding Firefighting Spiral,"Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?",Firefighting Spiral,56,"Subject: Regarding Firefighting Spiral
+
+Firefighting isn't a strategy. It's a symptom of a system that can't handle firefighting spiral. You're stuck in the weeds instead of building the future.
+
+We build the fire station so you can focus on the architecture. We automate the incident response patterns.
+
+Prevent issues before they start. Get your time back.
+
+Open to a demo?"

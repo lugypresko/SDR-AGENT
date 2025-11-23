@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Test Alice",
+        "company": "TestCorp",
+        "title": "CTO",
+        "linkedin_bio": "Building the future of AI. Scaling engineering teams.",
+        "employees": "150"
+    },
+    {
+        "name": "Test Bob",
+        "company": "MockData",
+        "title": "VP Engineering",
+        "linkedin_bio": "Data infrastructure and pipelines. Python enthusiast.",
+        "employees": "40"
+    },
+    {
+        "name": "Test Charlie",
+        "company": "ScaleUp Inc",
+        "title": "Head of R&D",
+        "linkedin_bio": "Managing 5 squads. Focused on developer productivity.",
+        "employees": "300"
+    }
+]

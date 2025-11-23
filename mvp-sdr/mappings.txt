@@ -1,0 +1,21 @@
+﻿
+================================================================================
+PERSONA-TO-PAIN-TO-ANGLE MAPPING
+================================================================================
+Alice                | architecture drift                  | Strategic Clarity
+Bob                  | architecture drift                  | Strategic Clarity
+Charlie              | architecture drift                  | Execution Velocity
+Diana                | architecture drift                  | Execution Velocity
+Eve                  | architecture drift                  | Strategic Clarity
+Tom Milberg          | architecture drift                  | Strategic Clarity
+Nir Gomer            | architecture drift                  | Strategic Clarity
+Amit Porat           | architecture drift                  | Strategic Clarity
+Moshe Rosenthal      | architecture drift                  | Strategic Clarity
+================================================================================
+
+Unique Pains: 1
+  - architecture drift
+
+Unique Angles: 2
+  - Execution Velocity
+  - Strategic Clarity
