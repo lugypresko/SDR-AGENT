@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  sdr-agent:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      - MOCK_MODE=True
+      # Add other env vars here if needed
+    command: python main.py

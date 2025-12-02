@@ -25,3 +25,6 @@ MINIMUM_UNIQUE_PAINS = 3
 INPUT_CSV_PATH = "leads.csv"
 OUTPUT_CSV_PATH = "generated_emails.csv"
 LOG_LEVEL = "INFO"
+
+# BrightData Configuration
+BRIGHTDATA_API_KEY = "5938e75fce6787703fcdeb1797f3a1d68fca1a3f1bc654773960c118f54e976c"
